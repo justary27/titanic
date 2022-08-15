@@ -1,0 +1,4 @@
+# ignore folders
+
+/titanic
+model/.ipynb_checkpoints
